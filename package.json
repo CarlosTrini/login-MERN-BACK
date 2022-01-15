@@ -4,8 +4,8 @@
   "description": "just login back",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon app.js"
+    "devServer": "nodemon app.js",
+    "start": "node app.js"
   },
   "keywords": [
     "login",
